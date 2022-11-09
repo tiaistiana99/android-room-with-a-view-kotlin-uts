@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catatan Sehari-hari</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Kata</string>
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Kata tidak bisa disimpan karena kesalahan</string>
+    <string name="add_word">Tambahkan kata</string>
+</resources>
